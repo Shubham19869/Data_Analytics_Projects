@@ -59,10 +59,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the Ti
 
 ## 📁 Project Structure
 
-├── Titanic_EDA.ipynb # Jupyter Notebook with full analysis 
-├── train.csv # Titanic dataset 
-├── README.md # Project overview and documentation 
-└── Titanic_EDA_Report.pdf # Exported PDF report
+<pre> ``` ├── Titanic_EDA.ipynb # Jupyter Notebook with full analysis ├── train.csv # Titanic dataset ├── README.md # Project overview and documentation └── Titanic_EDA_Report.pdf # Exported PDF report ``` </pre>
 
 ---
 
